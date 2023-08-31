@@ -1,14 +1,14 @@
-# Project
+# Microsoft Biomedical Search
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+*Domain-Specific Pretraining for Vertical Search: Case Study on Biomedical Literature* (KDD 2021)
 
-As the maintainer of this project, please make a few updates:
+[[Paper](https://dl.acm.org/doi/10.1145/3447548.3469053)]
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Yu Wang, Jinchao Li, Tristan Naumann, Chenyan Xiong, Hao Cheng, Robert Tinn, Cliff Wong, Naoto Usuyama, Richard Rogahn, Zhihong Shen, Yang Qin, Eric Horvitz, Paul N. Bennett, Jianfeng Gao, Hoifung Poon (Equal Contribution)
+
+As a response to the COVID-19 pandemic, Microsoft Research provided Microsoft Biomedical Search, and AI-powered search tool to help researchers and scientists identify relevant publications available from PubMed and the COVID-19 Open Research Dataset (CORD-19). This tool was provided on a short-term basis for public benefit and was deprecated on September 1, 2023.
+
+This repository serves as a resource for those looking to find the paper describing this system. For additional questions, please reach out to biomedsearchfeedback@microsoft.com.
 
 ## Contributing
 
